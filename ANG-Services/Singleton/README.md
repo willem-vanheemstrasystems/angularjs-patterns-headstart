@@ -9,4 +9,4 @@ The singleton pattern is a design pattern that restricts the instantiation of a 
 
 Illustrated in the UML diagram below is the singleton design pattern.
 
-![Image](../master/ANG-Services/Singleton/img/singleton.png?raw=true)
+![Image](../Singleton/img/singleton.png?raw=true)
