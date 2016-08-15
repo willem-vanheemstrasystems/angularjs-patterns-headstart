@@ -23,4 +23,4 @@ Initially each SPA loads ```index.html``` file. In the case of AngularJS this fi
 </html>
 ```
 
-With AngularJS expressions partials define what kind of actions should be performed for handling different user interactions. In the example above the value of the attribute ng-click states that the method changeFoo of the current scope will be invoked.
+With AngularJS expressions partials define what kind of actions should be performed for handling different user interactions. In the example above the value of the attribute ```ng-click``` states that the method ```changeFoo``` of the current scope will be invoked.
