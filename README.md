@@ -9,6 +9,10 @@ Based on:
 
 - 'AngularJS in patterns (docs)' at https://mgechev.github.io/angularjs-in-patterns/
 
+- 'AngularJS - Advanced Design Patterns and Best Practices (docs)' at http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro
+
+- 'AngularJS - Advanced Design Patterns and Best Practices (source)' at https://github.com/trochette/Angular-Design-Patterns-Best-Practices
+
 #AngularJS overview
 
 AngularJS is a JavaScript framework developed by Google. It intends to provide a solid base for the development of CRUD Single-Page Applications (SPA). SPA is a web application, which once loaded, does not require full page reload when the user performs any actions with it. This means that all application resources (data, templates, scripts, styles) should be loaded with the initial request or better - the information and resources should be loaded on demand. Since most of the CRUD applications has common characteristics and requirements, AngularJS intends to provide the optimal set of them out-of-the-box. A few important features of AngularJS are:
