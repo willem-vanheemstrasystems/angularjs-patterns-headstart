@@ -1,0 +1,2 @@
+# angularjs-patterns-headstart
+foo
