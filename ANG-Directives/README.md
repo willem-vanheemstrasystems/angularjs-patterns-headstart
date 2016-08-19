@@ -43,15 +43,21 @@ In the example above the tag ```<alert-button></alert-button>``` will be replace
 
 We begin with a template (as a string or loaded to a string)
 
-```var templateString = '<div my-directive>{{5 + 10}}</div>';```
+```javascript
+var templateString = '<div my-directive>{{5 + 10}}</div>';
+```
 
 Now, this ```templateString``` is wrapped as an ***angular element***
 
-```var el = angular.element(templateString);```
+```javascript
+var el = angular.element(templateString);
+```
 
 With ```el```, now we compile it with ```$compile``` to get back the ***link*** function.
 
-```var l = $compile(el)```
+```javascript
+var l = $compile(el)
+```
 
 Here is what happens,
 - ```$compile``` walks through the whole template and collects all the directives that it recognizes.
