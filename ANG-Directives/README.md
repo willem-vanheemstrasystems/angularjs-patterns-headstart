@@ -66,7 +66,9 @@ Here is what happens,
 
 Finally, we provide ```scope``` to this ```l``` (link) function which further executes the wrapped link functions with this ```scope``` and their corresponding elements.
 
-```l(scope)```
+```javascript
+l(scope)
+```
 
 This adds the ```template``` as a new node to the ```DOM``` and invokes ```controller``` which adds its watches to the ***scope*** which is shared with the template in DOM.
 
