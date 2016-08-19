@@ -72,7 +72,7 @@ l(scope)
 
 This adds the ```template``` as a new node to the ```DOM``` and invokes ```controller``` which adds its watches to the ***scope*** which is shared with the template in DOM.
 
-[Image]('../master/ANG-Directives/0PwGA.png')
+![Image]('../master/ANG-Directives/0PwGA.png')
 
 Comparing ***compile*** vs ***link*** vs ***controller*** :
 
