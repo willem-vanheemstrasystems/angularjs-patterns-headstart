@@ -94,4 +94,4 @@ Comparing ***compile*** vs ***link*** vs ***controller*** :
 
 Therefore, finally we have the following which fits all the pieces perfectly:
 
-
+![Image](SAFpN.png)
