@@ -19,6 +19,8 @@ Based on:
 
 - 'Angular Style Guide' at https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
 
+- 'John Papa - 10 AngularJS Patterns - Code on the Beach 2014' at https://www.youtube.com/watch?v=UlvCbnKAH3g
+
 #AngularJS overview
 
 AngularJS is a JavaScript framework developed by Google. It intends to provide a solid base for the development of CRUD Single-Page Applications (SPA). SPA is a web application, which once loaded, does not require full page reload when the user performs any actions with it. This means that all application resources (data, templates, scripts, styles) should be loaded with the initial request or better - the information and resources should be loaded on demand. Since most of the CRUD applications has common characteristics and requirements, AngularJS intends to provide the optimal set of them out-of-the-box. A few important features of AngularJS are:
