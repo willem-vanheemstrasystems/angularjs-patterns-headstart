@@ -1,6 +1,8 @@
 # ANG-Directives
 AngularJS - Directives
 
+Based on 'Advanced Directives with Angular JS' at https://www.youtube.com/watch?v=Ty8XcASK9js
+
 #Directives
 
 In AngularJS the directives are the place where all DOM manipulations should be placed. As a rule of thumb, when you have DOM manipulations in your controller you should create a new directive or consider refactoring of already existing one, which could handle the required DOM manipulations. Each directive has a name and logic associated with it. In the simplest case the directive contains only name and definition of postLink function, which encapsulates all the logic required for the directive. In more complex cases the directive could contain a lot of properties such as:
